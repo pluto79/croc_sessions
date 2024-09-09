@@ -1,0 +1,14 @@
+{
+  "name": "mark-up",
+  "version": "1.0.0",
+  "description": "Creating a website for a resturant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesedi Walaza",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
